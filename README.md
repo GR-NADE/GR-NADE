@@ -14,18 +14,43 @@ I'm a software developer studying Advanced Diploma in Software Engineering (ADSE
 ## 🧩 Projects
 
 ### 🎯 Form App
-> A modern and responsive multi-step form app built with React. It features dynamic progress tracking, conditional input handling, and visual feedback to enhance user interaction. Navigation is handled using React Router, with programmatic routing via `useNavigate`.
+> A multi-step web app built with React, styled with Vanilla CSS, and integrated with Firebase Firestore for user data storage.
 
-- 🔹 Tech stack: React (functional components, useRef, useEffect, useState), React Router, Vanilla CSS
-- 🔹 [GitHub Repo](https://github.com/GR-NADE/Form-App)
+## 🚀 Features
+- 🔹 Multi-step form: Phone Number → Email → Personal Info
+- 🔹 Route-based form navigation with React Router and useNavigate
+- 🔹 Firebase Firestore integration for storing form data
+- 🔹 Responsive and minimalistic UI with Vanilla CSS
+- 🔹 Stepper-based progress indicator in the Navbar
+- 🔹 Real-time visual feedback throughout the form flow
+
+## 🔧 Tech Stack
+- React (functional components & hooks: useRef, useEffect, useState)
+- React Router v6
+- Firebase v9 (modular SDK)
+- Vanilla CSS
+- Vite
+- Lucide react
+
+🔹 [GitHub Repo](https://github.com/GR-NADE/Form-App)
 
 ---
 
 ### 🎯 Auth Flow App
-> A sleek and responsive Flutter app that implements a complete UI authentication flow — including login, signup, and password reset screens — with real-time form validation and seamless page transitions. Navigation is managed using go_router, and state is handled using provider.
+> A multi-screen authentication app built with Flutter, featuring login, signup, and password reset flows with a clean UI and structured logic.
 
-- 🔹 Tech stack: Flutter, Dart, Provider, go_router
-- 🔹 [GitHub Repo](https://github.com/GR-NADE/Login-Signup-App)
+## 🚀 Features
+- 🔹  Provider for efficient state handling and UI updates
+- 🔹  Route-based navigation using `go_router`
+- 🔹  Real-time form validation with contextual error feedback
+- 🔹  Consistent styling via a custom theme and layout structure
+
+## 🔧 Tech Stack
+- Flutter (Dart)
+- Provider (state management)
+- go_router (navigation)
+
+🔹 [GitHub Repo](https://github.com/GR-NADE/Login-Signup-App)
 
 ---
 
