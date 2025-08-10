@@ -50,7 +50,7 @@ I'm a software developer studying Advanced Diploma in Software Engineering (ADSE
 - Provider (state management)
 - go_router (navigation)
 
-🔹 [GitHub Repo](https://github.com/GR-NADE/Login-Signup-App)
+🔹 [GitHub Repo](https://github.com/GR-NADE/BabyHub-Login-SignUp)
 
 ---
 
