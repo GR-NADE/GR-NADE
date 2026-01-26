@@ -19,9 +19,9 @@ JavaScript
 React  
 Node.js  
 Express.js  
-HTML5  
-CSS3  
 Tailwind CSS  
+Flutter  
+Dart 
 
 **Databases & Tools**  
 PostgreSQL  
