@@ -5,31 +5,31 @@
 ---
 
 # 🌟 About Me
-🔹 2+ years of hands-on experience building full stack applications
-🔹 Strong proficiency in the MERN/PERN stack (React, Node.js, Express, MongoDB/PostgreSQL)
-🔹 Skilled in developing responsive UIs, robust REST APIs, and managing database architecture
-🔹 Passionate about transforming concepts into live, deployed, and functional web applications
-🔹 Constantly exploring new technologies to stay ahead
+> 🔹 2+ years of hands-on experience building full stack applications
+> 🔹 Strong proficiency in the MERN/PERN stack (React, Node.js, Express, MongoDB/PostgreSQL)
+> 🔹 Skilled in developing responsive UIs, robust REST APIs, and managing database architecture
+> 🔹 Passionate about transforming concepts into live, deployed, and functional web applications
+> 🔹 Constantly exploring new technologies to stay ahead
 
 ---
 
 # 🛠️ Tech Stack
 **Languages & Frameworks**
-JavaScript
-React
-Node.js
-Express.js
-HTML5
-CSS3
-Tailwind CSS
+> JavaScript
+> React
+> Node.js
+> Express.js
+> HTML5
+> CSS3
+> Tailwind CSS
 
 **Databases & Tools**
-PostgreSQL
-MongoDB
-Git
-GitHub
-REST API
-JWT
+> PostgreSQL
+> MongoDB
+> Git
+> GitHub
+> REST API
+> JWT
 
 ---
 
