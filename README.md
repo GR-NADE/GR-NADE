@@ -1,67 +1,51 @@
-# 👋 Hi, I'm Victor
+# 👋 Hi, I'm Victor Ikenua
 
-I'm a software developer studying Advanced Diploma in Software Engineering (ADSE) at Aptech. I build responsive websites and interactive applications, mostly using React and Flutter.
-
----
-
-## 🔧 Skills
-- **Languages:** JavaScript, Dart, HTML, CSS, C#
-- **Frameworks & Libraries:** React, Flutter
-- **Tools:** Git, GitHub, VS Code
+🚀 Full Stack Developer | 💻 React • Node.js • Flutter | ⚡ Web Applications Specialist
 
 ---
 
-## 🧩 Projects
-
-### 🎯 Form App
-> A multi-step web app built with React, styled with Vanilla CSS, and integrated with Firebase Firestore for user data storage.
-
-## 🚀 Features
-- 🔹 Multi-step form: Phone Number → Email → Personal Info
-- 🔹 Route-based form navigation with React Router and useNavigate
-- 🔹 Firebase Firestore integration for storing form data
-- 🔹 Responsive and minimalistic UI with Vanilla CSS
-- 🔹 Stepper-based progress indicator in the Navbar
-- 🔹 Real-time visual feedback throughout the form flow
-
-## 🔧 Tech Stack
-- React (functional components & hooks: useRef, useEffect, useState)
-- React Router v6
-- Firebase v9 (modular SDK)
-- Vanilla CSS
-- Vite
-- Lucide react
-
-🔹 [GitHub Repo](https://github.com/GR-NADE/Form-App)
+# 🌟 About Me
+🔹 2+ years of hands-on experience building full stack applications
+🔹 Strong proficiency in the MERN/PERN stack (React, Node.js, Express, MongoDB/PostgreSQL)
+🔹 Skilled in developing responsive UIs, robust REST APIs, and managing database architecture
+🔹 Passionate about transforming concepts into live, deployed, and functional web applications
+🔹 Constantly exploring new technologies to stay ahead
 
 ---
 
-### 🎯 Auth Flow App
-> A multi-screen authentication app built with Flutter, featuring login, signup, and password reset flows with a clean UI and structured logic.
+# 🛠️ Tech Stack
+**Languages & Frameworks**
+[JavaScript](https://camo.githubusercontent.com/88b8bdce872268b3d0d7ec69e16716a0adf8fa0165eb6069bcb49e23bd5550ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
+React
+Node.js
+Express.js
+HTML5
+CSS3
+Tailwind CSS
 
-## 🚀 Features
-- 🔹  Provider for efficient state handling and UI updates
-- 🔹  Route-based navigation using `go_router`
-- 🔹  Real-time form validation with contextual error feedback
-- 🔹  Consistent styling via a custom theme and layout structure
-
-## 🔧 Tech Stack
-- Flutter (Dart)
-- Provider (state management)
-- go_router (navigation)
-
-🔹 [GitHub Repo](https://github.com/GR-NADE/BabyHub-Login-SignUp)
-
----
-
-### 🎯 Threadish (eCommerce Homepage)
-> A clean, responsive eCommerce homepage built with React. This project focuses on front-end presentation — including a product showcase, navigation layout, and smooth UI interactions. While it’s not a fully functional store, it demonstrates my ability to build stylish, mobile-friendly web interfaces using React and CSS.
-
-- 🔹 Tech stack: React, React Router DOM, Lucide React, CSS
-- 🔹 [GitHub Repo](https://github.com/GR-NADE/Threadish-Website)
+**Databases & Tools**
+PostgreSQL
+MongoDB
+Git
+GitHub
+REST API
+JWT
 
 ---
 
-## 📫 Contact
-- **Email:** ikenuavictor@gmail.com
-- **GitHub:** [GR-NADE](https://github.com/GR-NADE)
+# 💼 Projects
+🤖 **[Resumi](https://resumi-omega.vercel.app/)** – AI-Powered Resume Rating Application
+> A full-stack web app that analyzes resumes using AI. Processes PDFs/images (with OCR), provides scores, feedback, and generates shareable report links.
+📅 **[Eventz](https://eventz-delta.vercel.app/)** – Event Planning & Management Assistant
+> A production-ready SaaS for creating events, managing guest lists, tracking RSVPs, and sending automated email invitations.
+
+---
+
+# 🔗 Connect with Me
+[GitHub](https://github.com/GR-NADE)
+[Upwork](https://www.upwork.com/freelancers/~015c51fdc703dafcbe)
+**Email:** ikenuavictor@gmail.com
+
+---
+
+*✨ "I bridge the gap between idea and reality."*
