@@ -35,7 +35,7 @@ JWT
 
 # 💼 Projects
 🤖 **[Resumi](https://resumi-omega.vercel.app/)** – AI-Powered Resume Rating Application  
-> A full-stack web app that analyzes resumes using AI. Processes PDFs/images (with OCR), provides scores, feedback, and generates shareable report links.
+> A full-stack web app that analyzes resumes using AI. Processes PDFs/images, provides scores, feedback, and generates shareable report links.
 
 📅 **[Eventz](https://eventz-delta.vercel.app/)** – Event Planning & Management Assistant  
 > A production-ready SaaS for creating events, managing guest lists, tracking RSVPs, and sending automated email invitations.
