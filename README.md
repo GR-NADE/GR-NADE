@@ -8,7 +8,7 @@
 🔹 2+ years of hands-on experience building full stack applications  
 🔹 Strong proficiency in the MERN/PERN stack (React, Node.js, Express, MongoDB/PostgreSQL)  
 🔹 Skilled in developing responsive UIs, robust REST APIs, and managing database architecture  
-🔹 Passionate about transforming concepts into live, deployed, and functional web applications  
+🔹 Passionate about transforming concepts into live and functional web applications  
 🔹 Constantly exploring new technologies to stay ahead
 
 ---
