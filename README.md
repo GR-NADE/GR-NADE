@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Victor Ikenua
 
-🚀 Full Stack Developer | 💻 React • Node.js • Flutter | ⚡ Web Applications Specialist
+🚀 Full Stack Developer | 💻 React • Node.js • JavaScript | ⚡ Web Applications Specialist
 
 ---
 
