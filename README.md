@@ -1,14 +1,15 @@
 # 👋 Hi, I'm Victor Ikenua
 
-🚀 Full Stack Developer | 💻 React • Node.js • Flutter | ⚡ Web Applications Specialist
+🚀 Full Stack Developer | 💻 React • Node.js • TypeScript | ⚡ Web Applications Specialist
 
 ---
 
 # 🌟 About Me
-🔹 2+ years of hands-on experience building full stack applications  
+🔹 3+ years of hands-on experience building and shipping full-stack applications  
 🔹 Strong proficiency in the MERN/PERN stack (React, Node.js, Express, MongoDB/PostgreSQL)  
-🔹 Skilled in developing responsive UIs, robust REST APIs, and managing database architecture  
-🔹 Passionate about transforming concepts into live and functional web applications  
+🔹 Experienced with TypeScript end-to-end, Prisma ORM, Docker, and CI/CD pipelines  
+🔹 Skilled in developing robust REST APIs, managing database architecture, and integrating third-party APIs  
+🔹 Passionate about transforming ideas into live and functional products  
 🔹 Constantly exploring new technologies to stay ahead
 
 ---
@@ -16,29 +17,35 @@
 # 🛠️ Tech Stack
 **Languages & Frameworks**  
 JavaScript  
+TypeScript  
 React  
 Node.js  
 Express.js  
 Tailwind CSS  
-Flutter  
-Dart 
 
 **Databases & Tools**  
 PostgreSQL  
-MongoDB  
+MongoDB 
+Supabase
+Prisma ORM
 Git  
 GitHub  
+Docker
+GitHub Actions
 REST API  
 JWT  
 
 ---
 
 # 💼 Projects
+💳 **[DevPay](https://devpay-two.vercel.app/)** – Freelancer Invoicing and Payments Platform  
+> Production-grade invoicing SaaS. Freelancers manage clients, generate invoices, and collect payments via Paystack.
+
 🤖 **[Resumi](https://resumi-omega.vercel.app/)** – AI-Powered Resume Rating Application  
-> A full-stack web app that analyzes resumes using AI. Processes PDFs/images, provides scores, feedback, and generates shareable report links.
+> Analyzes resumes using Groq AI. Processes PDF and image uploads, returns structured feedback, and generates unique shareable report links.
 
 📅 **[Eventz](https://eventz-delta.vercel.app/)** – Event Planning & Management Assistant  
-> A production-ready SaaS for creating events, managing guest lists, tracking RSVPs, and sending automated email invitations.
+> Multi-user event management platform. Create events, manage guest lists, track RSVPs, and dispatch automated email invitations via Resend.
 
 ---
 
