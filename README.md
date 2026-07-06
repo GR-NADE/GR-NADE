@@ -16,22 +16,22 @@
 
 # 🛠️ Tech Stack
 **Languages & Frameworks**  
-JavaScript  
-TypeScript  
+JavaScript   
+TypeScript   
 React  
 Node.js  
 Express.js  
 Tailwind CSS  
 
 **Databases & Tools**  
-PostgreSQL  
-MongoDB 
-Supabase
-Prisma ORM
+PostgreSQL   
+MongoDB   
+Supabase   
+Prisma ORM   
 Git  
 GitHub  
-Docker
-GitHub Actions
+Docker  
+GitHub Actions  
 REST API  
 JWT  
 
