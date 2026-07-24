@@ -51,6 +51,7 @@ JWT
 
 # 🔗 Connect with Me
 [GitHub](https://github.com/GR-NADE)  
+[LinkedIn](www.linkedin.com/in/victor-ikenua-78b300380)  
 [Upwork](https://www.upwork.com/freelancers/~015c51fdc703dafcbe)  
 [Wellfound](https://wellfound.com/u/victor-ikenua)  
 **Email:** ikenuavictor@gmail.com
