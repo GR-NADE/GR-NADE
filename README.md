@@ -34,12 +34,14 @@ Docker
 GitHub Actions  
 REST API  
 JWT  
+Paystack  
+Flutterwave  
 
 ---
 
 # 💼 Projects
 💳 **[DevPay](https://devpay-two.vercel.app/)** – Freelancer Invoicing and Payments Platform  
-> Production-grade invoicing SaaS. Freelancers manage clients, generate invoices, and collect payments via Paystack.
+> Multi-currency invoicing SaaS. Freelancers invoice in naira or foreign currencies, with FX-converted payments settling directly to their bank account via Paystack and Flutterwave.
 
 🤖 **[Resumi](https://resumi-omega.vercel.app/)** – AI-Powered Resume Rating Application  
 > Analyzes resumes using Groq AI. Processes PDF and image uploads, returns structured feedback, and generates unique shareable report links.
