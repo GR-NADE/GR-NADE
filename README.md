@@ -40,10 +40,10 @@ Flutterwave
 ---
 
 # 💼 Projects
-💳 **[DevPay](https://devpay-two.vercel.app/)** – Freelancer Invoicing and Payments Platform  
+💳 **[Billly](https://billly.vercel.app/)** – Freelancer Invoicing and Payments Platform  
 > Multi-currency invoicing SaaS. Freelancers invoice in naira or foreign currencies, with FX-converted payments settling directly to their bank account via Paystack and Flutterwave.
 
-🤖 **[Resumi](https://resumi-omega.vercel.app/)** – AI-Powered Resume Rating Application  
+🤖 **[Resumi](https://resumeye.vercel.app/)** – AI-Powered Resume Rating Application  
 > Analyzes resumes using Groq AI. Processes PDF and image uploads, returns structured feedback, and generates unique shareable report links.
 
 📅 **[Eventz](https://eventz-delta.vercel.app/)** – Event Planning & Management Assistant  
