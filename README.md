@@ -34,6 +34,7 @@ Docker
 GitHub Actions CI/CD  
 REST API  
 JWT  
+Vitest / Supertest  
 Paystack  
 Flutterwave  
 
